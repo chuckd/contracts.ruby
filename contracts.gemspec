@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
     s.email       = "bluemangroupie@gmail.com"
     s.files       = Dir["lib/*"]
     s.homepage    = "http://github.com/egonSchiele/contracts.ruby"
+    s.license     = "BSD-2-Clause"
 	# TODO add any dependencies
 	# s.add_dependency("log4r", ">= 1.0.5")
 	# s.add_dependency("log4r")
